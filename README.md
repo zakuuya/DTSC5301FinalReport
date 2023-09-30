@@ -107,7 +107,7 @@ plt.show()
 
 
     
-![png](Copy_of_Final_Project_Analysis_files/Copy_of_Final_Project_Analysis_5_1.png)
+![png](threat_quantity.png)
     
 
 
@@ -177,19 +177,19 @@ plt.ylim(0, 0.3)
 
 
     
-![png](Copy_of_Final_Project_Analysis_files/Copy_of_Final_Project_Analysis_8_1.png)
+![png](api_reboots.png)
     
 
 
 
     
-![png](Copy_of_Final_Project_Analysis_files/Copy_of_Final_Project_Analysis_8_2.png)
+![png](battery_wakelock.png)
     
 
 
 
     
-![png](Copy_of_Final_Project_Analysis_files/Copy_of_Final_Project_Analysis_8_3.png)
+![png](tot_processes.png)
     
 
 
